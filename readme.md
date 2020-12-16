@@ -1,3 +1,4 @@
+Fork of https://github.com/sindresorhus/pure just in case it ever goes missing.
 # Pure
 
 > Pretty, minimal and fast ZSH prompt
@@ -63,7 +64,7 @@ That's it. Skip to [Getting started](#getting-started).
 
 ```sh
 mkdir -p "$HOME/.zsh"
-git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"
+git clone https://github.com/grantmiiller/pure.git "$HOME/.zsh/pure"
 ```
 
 2. Add the path of the cloned repo to `$fpath` in `$HOME/.zshrc`.
